@@ -1,0 +1,4 @@
+	Skill_1 - Android Studio
+        Skill_2 - SQL
+        Skill_3 - Bash Scripts
+        Skill_4 - Python
